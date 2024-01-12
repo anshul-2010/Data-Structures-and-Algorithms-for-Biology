@@ -1,0 +1,77 @@
+﻿1. Name: John Doe
+   Age: 30
+   Email: john.doe@example.com
+   Address: 123 Main St
+   Phone: (555) 123-4567
+
+
+
+
+2. Name: Jane Smith
+   Age: 25
+   Email: jane.smith@gmail.com
+   Address: 456 Tryst Rd
+   Phone: (555) 987-6543
+
+
+
+
+3. Name: Michael Johnson
+   Age: 35
+   Email: michael.johnson@yahoo.com
+   Address: 789 Oak Ave
+   Phone: (555) 789-0123
+
+
+
+
+4. Name: Sarah Williams
+   Age: 28
+   Email: sarah.williams@outlook.com
+   Address: 567 Fly Ln
+   Phone: (555) 234-5678
+
+
+
+
+5. Name: David Brown
+   Age: 32
+   Email: david.brown@hotmail.com
+   Address: 234 Cedar Dr
+   Phone: (555) 345-6789
+
+
+
+
+6. Name: Emily Davis
+   Age: 29
+   Email: emily.davis@example.net
+   Address: 789 Birch Ct
+   Phone: (555) 876-5432
+
+
+
+
+7. Name: James Wilson
+   Age: 27
+   Email: james.wilson@gmail.com
+   Address: 345 Shrwt Rd
+   Phone: (555) 654-3210
+
+
+
+
+8. Name: Jessica Lee
+   Age: 31
+   Email: jessica.lee@example.org
+   Address: 456 Psych Av
+   Phone: (555) 432-1098
+
+
+
+
+9. Name: Robert Taylor
+   Age: 33
+   Email: robert.taylor@yahoo.com
+   Address: 678 Redwood Ln
+   Phone: (555) 567-8901
